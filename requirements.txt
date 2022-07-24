@@ -10,3 +10,4 @@ pyYAML
 evidently
 cassandra-driver
 flask_cors
+-e .
