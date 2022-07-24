@@ -1,0 +1,12 @@
+Flask
+gunicorn
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
+ipykernel
+pyYAML
+evidently
+cassandra-driver
+flask_cors
